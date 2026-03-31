@@ -1,0 +1,5 @@
+{
+  "name": "YourSafeShare",
+  "description": "A secure, serverless peer-to-peer file sharing application using WebRTC.",
+  "requestFramePermissions": []
+}
